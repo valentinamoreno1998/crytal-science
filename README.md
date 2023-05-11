@@ -4,3 +4,5 @@
 # Valentina Moreno Caviedes
 # Diseñadora Web 
 # correo: valentina.moreno.cav@gmail.com
+
+$ cd css/main.css
